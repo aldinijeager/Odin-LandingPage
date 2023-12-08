@@ -167,9 +167,10 @@ body{
     border-radius: 8px;
     background-color: #3882F6;
     border: 2px solid #F9FAF8;
-    color: #F9FAF8;
+    
 }
 
 .box a{
     text-decoration: none;
+    color: #F9FAF8;
 }
