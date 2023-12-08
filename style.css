@@ -140,4 +140,20 @@ body{
     padding: 100px;
     justify-content: center;
     align-items: center;
+    font-size: 16px;
+    color: #f9faf8;
+}
+
+.box{
+    background-color: #3882F6;
+    width: 100%;
+    padding: 40px;
+    border: #3882F6 5px solid;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-around;
+}
+.highlight{
+    font-size: 25px;
+    font-weight: bold;
 }
