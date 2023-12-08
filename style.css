@@ -47,3 +47,8 @@ ul{
     background-color: #8e94a0;
     color: #F9FAF8;
 }
+
+body{
+    background-color: black;
+    padding: 0 60px;
+}
