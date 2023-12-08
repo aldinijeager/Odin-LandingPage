@@ -12,6 +12,9 @@ ul{
     list-style: none;
 }
 
+.content1{
+    background-color: #1f2937;
+}
 .header{
     justify-content: space-between;
     align-items: center;
