@@ -154,8 +154,22 @@ body{
     border-radius: 8px;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 .highlight{
     font-size: 25px;
     font-weight: bold;
+}
+
+.box button{
+    padding: 5px 20px ;
+    height: fit-content;
+    border-radius: 8px;
+    background-color: #3882F6;
+    border: 2px solid #F9FAF8;
+    color: #F9FAF8;
+}
+
+.box a{
+    text-decoration: none;
 }
