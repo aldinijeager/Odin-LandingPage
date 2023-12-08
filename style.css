@@ -174,3 +174,14 @@ body{
     text-decoration: none;
     color: #F9FAF8;
 }
+
+.footer{
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: #1f2937;
+    color: aliceblue;
+}
