@@ -39,3 +39,11 @@ ul{
     font-size: 18px;
     color: #e5e7eb;
 }
+
+.front-container.two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #8e94a0;
+    color: #F9FAF8;
+}
