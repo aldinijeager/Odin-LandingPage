@@ -89,6 +89,7 @@ body{
 .content2 .header{
     font-size: 36px;
     font-weight: bolder;
+    margin-bottom: 25px;
 }
 
 .item div{
@@ -98,7 +99,16 @@ body{
     border-radius: 12px;
 }
 
+.item{
+    max-width: 160px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
 .item-container{
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-around;
 }
