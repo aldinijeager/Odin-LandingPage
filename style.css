@@ -12,7 +12,11 @@ ul{
     list-style: none;
 }
 
-.header div{
+.header{
     justify-content: space-between;
     align-items: center;
+}
+
+.header div{
+    
 }
