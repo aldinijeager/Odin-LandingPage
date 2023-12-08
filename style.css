@@ -1,0 +1,5 @@
+.header,
+.front-content,
+ul{
+    display: flex;
+}
